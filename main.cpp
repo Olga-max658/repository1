@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; //iu5ertyiretyih
 
 struct Kinder {
     wstring name;
